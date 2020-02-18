@@ -1,2 +1,3 @@
 # marassapapupphakani
-mārassa papupphakāni
+mārassa papupphakāni มารสฺส ปปุปฺผกานิ
+ 
