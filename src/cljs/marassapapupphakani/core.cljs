@@ -1,6 +1,12 @@
 (ns marassapapupphakani.core
   (:require [reagent.core :as r]
-            [re-frame.core :as rf]))
+            [re-frame.core :as rf]
+            [reitit.core :as rei]
+            [reitit.coercion :as reic]
+            [reitit.coercion.spec :as reiss]
+            [reitit.frontend :as reif]
+            [reitit.frontend.controllers :as reifc]
+            [reitit.frontend.easy :as reife]))
 
 (defn ui
   []
